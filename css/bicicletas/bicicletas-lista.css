@@ -47,8 +47,7 @@
 
 @media (max-width: 800px) {
   .bicicleta-lista {
-    /* descobrir pq o conteiner esta ficando por cima da imagem, o margim-top so existe enquanto n identifico e corrijo o problema */
-
+    /* descobrir pq o conteiner esta ficando por cima da imagem, o margim-top so existe enquanto n identifico e corrijo o problema. */
     margin-top: 80px;
     padding-bottom: 60px;
   }
